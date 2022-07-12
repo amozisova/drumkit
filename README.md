@@ -15,6 +15,9 @@ Original idea by Angela Yu - as part of the Advanced JS and DOM Manipulation lec
 ### Screenshot
 https://github.com/amozisova/drumkit/blob/main/drumkit_screenshot.jpg
 
+### Website
+You can view the website on the following [Site Link](https://amozisova.github.io/drumkit/).
+
 ### Built with
 - HTML5
 - CSS3
@@ -25,6 +28,6 @@ To run the site on your local machine:
 - Download or clone the repository onto your machine.
 - Extract the .zip file.
 - Open .html file in your browser.
-- Alternatively you can click on the following Site Link to view.
+
 
 
