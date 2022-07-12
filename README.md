@@ -8,8 +8,8 @@
  
  
 ## Overview
-This is my version of the [Drum kit website](https://www.udemy.com/course/the-complete-web-development-bootcamp).
-Original idea by Angela Yu - as part of the Advanced JS and DOM Manipulation lecture in Udemy course The Complete 2022 Web Development Bootcamp.
+This is my version of the Drum kit website.
+Original idea by Angela Yu - as part of the Advanced JS and DOM Manipulation lecture in Udemy course [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp).
 
 ### Screenshot
 https://github.com/amozisova/drumkit/blob/main/drumkit_screenshot.jpg
