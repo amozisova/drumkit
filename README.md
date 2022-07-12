@@ -8,7 +8,8 @@
  
  
 ## Overview
-This is my version of the Drum kit website.
+This is my version of the Drum kit website. It's a simple drum kit you can play with.
+I created this little project to practice DOM manipulation in JavaScript.
 
 #### You can view the website on the following [Site Link](https://amozisova.github.io/drumkit/).
 
