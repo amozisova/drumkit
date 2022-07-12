@@ -22,9 +22,9 @@ https://github.com/amozisova/drumkit/blob/main/drumkit_screenshot.jpg
 
 ### Technical Information
 To run the site on your local machine:
-Download or clone the repository onto your machine.
-Extract the .zip file.
-Open .html file in your browser.
-Alternatively you can click on the following Site Link to view.
+- Download or clone the repository onto your machine.
+- Extract the .zip file.
+- Open .html file in your browser.
+- Alternatively you can click on the following Site Link to view.
 
 
