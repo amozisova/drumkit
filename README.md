@@ -19,7 +19,7 @@ https://github.com/amozisova/Frontend-Mentor---QR-code-component/blob/main/scree
 - CSS3
 - JavaScript
 
-# Technical Information
+#### Technical Information
 To run the site on your local machine:
 Download or clone the repository onto your machine.
 Extract the .zip file.
